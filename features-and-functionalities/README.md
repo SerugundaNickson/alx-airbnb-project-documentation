@@ -70,4 +70,5 @@ This document outlines the core features and functionalities required for the ba
 ##  Diagram
 
 Refer to the included `features-diagram.png` for a visual breakdown of these features and their relationships.
+Add PNG diagram illustrating Airbnb backend features
 
