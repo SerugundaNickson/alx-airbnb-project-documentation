@@ -71,4 +71,7 @@ This document outlines the core features and functionalities required for the ba
 
 Refer to the included `features-diagram.png` for a visual breakdown of these features and their relationships.
 
+![Airbnb Clone Backend Diagram](features-diagram.png)
+
+
 
